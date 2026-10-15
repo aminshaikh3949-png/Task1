@@ -89,4 +89,4 @@ Completed as part of the CodeAlpha Data Analytics Internship.
 
 ## Author
 
-Fareez Khan
+Shaikh Ameen
